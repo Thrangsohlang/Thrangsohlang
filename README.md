@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thrangsohlang
-- 👀 I’m interested in Physics and computation
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me @ thrangsohlang@gmail.com
+- 👀 I’m interested in Physics, AI and Computation.
+- 🌱 I’m currently learning Machine Learning, Generative AI and Computer Vision.
+- 💞️ I’m looking to collaborate on Physics Projects or AI projects or a combination of both.
+- 📫 How to reach me @thrangsohlang@gmail.com
 
 <!---
 Thrangsohlang/Thrangsohlang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
